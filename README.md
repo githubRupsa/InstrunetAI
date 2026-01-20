@@ -47,4 +47,4 @@ Developed as an end-to-end pipeline for instrument recognition and visualization
 ### How to Run Locally
 1.  Clone the repository: `git clone https://github.com/githubRupsa/InstrunetAI.git`
 2.  Install dependencies: `pip install -r requirements.txt`
-3.  Launch the dashboard: `streamlit run app1.py`
+3.  Launch the dashboard: `streamlit run app.py`
