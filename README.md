@@ -6,12 +6,12 @@
 [cite_start]InstruNet AI converts raw audio files into visual spectrogram representations and uses a trained **ResNet18** model to identify the presence and intensity of specific musical instruments[cite: 7, 8, 48].
 
 ## 🛠️ Technology Stack
-* [cite_start]**Programming Language:** Python 3 [cite: 18]
-* [cite_start]**Audio Processing:** Librosa [cite: 19]
-* [cite_start]**Deep Learning Framework:** PyTorch (torchvision) [cite: 20]
-* [cite_start]**Visualization:** Matplotlib, Seaborn [cite: 21]
-* [cite_start]**Dashboard:** Streamlit [cite: 23]
-* [cite_start]**Dataset:** NSynth Dataset [cite: 22]
+* **Programming Language:** Python 3 
+* **Audio Processing:** Librosa
+* **Deep Learning Framework:** PyTorch (torchvision)
+* **Visualization:** Matplotlib, Seaborn 
+* **Dashboard:** Streamlit 
+* **Dataset:** NSynth Dataset
 
 ## 🏗️ System Architecture
 [cite_start]The system follows a modular end-to-end pipeline[cite: 45]:
