@@ -13,11 +13,9 @@ import io
 from fpdf import FPDF
 import tempfile
 
-# --- 1. Page Configuration ---
 st.set_page_config(page_title="InstruNet AI", layout="wide")
 st.title("🎵 InstruNet AI: Music Instrument Recognition")
 
-# --- 2. Model Loading (Cached) ---
 @st.cache_resource
 def get_model():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
