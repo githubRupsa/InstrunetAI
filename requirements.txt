@@ -2,7 +2,11 @@ streamlit
 torch
 torchvision
 librosa
+opencv-python
 numpy
+pandas
 matplotlib
+seaborn
 Pillow
 fpdf
+tqdm
