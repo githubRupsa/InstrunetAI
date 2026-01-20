@@ -28,7 +28,7 @@ The system follows a modular end-to-end pipeline:
 * **Multi-Class Detection:** Capable of identifying instruments like piano, guitar, drums, and more.
 * **Automated Reporting:** Generates track analysis reports in **JSON** and **PDF** formats.
 
-## 📈 Two-Month Milestone Plan
+## 📈 Milestones
 This project was completed according to a structured timeline:
 * **Weeks 1-2:** Data Collection & Preprocessing (Mel-spectrogram generation).
 * **Weeks 3-4:** CNN Model Development (ResNet18 baseline training).
