@@ -40,7 +40,7 @@ This project was completed according to a structured timeline:
 ## 👨‍💻 Author
 **[RUPSA PAL](https://github.com/githubRupsa)**
 *CSE (AIML) Student*
-Developed as an end-to-end pipeline for instrument recognition and visualization[cite: 123].
+Developed as an end-to-end pipeline for instrument recognition and visualization.
 
 ---
 
